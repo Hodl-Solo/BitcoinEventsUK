@@ -1,4 +1,4 @@
-1. # Telegram Group Setup Guide
+# Telegram Group Setup Guide
 
 1. Make your Telegram group public and then change the URL to something that matches your group name and is human readable. 
 2. Search for Shieldy and add it to the group. 
@@ -48,7 +48,9 @@ Note - Shieldy needs to be an admin to display welcome messages.
 Make sure @shieldy_bot is an admin at your chat and it's all done! You can also further setup the behaviour with the following commands:
 
 /help — shows this message
+
 /language — switches language
+
 /captcha — changes type of captcha used
 /timeLimit — changes amount of time given to newcomers
 /lock — makes commands accessible only by admins
