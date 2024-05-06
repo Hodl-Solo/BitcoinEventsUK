@@ -1,3 +1,4 @@
+# How to start a Bitcoin Meetup
 I've been using these steps to help setup Bitcoin meetups all over the UK and Ireland for the past 2 years. To help simplify the process and remove myself as a bottleneck, I’ve laid out the steps and principles below. 
 
 1. Think of a name for the group. eg Liverpool Bitcoiners. 
