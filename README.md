@@ -10,3 +10,4 @@ I've been using these steps to help setup Bitcoin meetups all over the UK and Ir
 7. Find a local venue that seems suitable. This could be a pub (most popular), cafe, co-working space etc. It doesn’t have to be somewhere that accepts bitcoin as payment, but if you have somewhere nearby definitely use that. Check-out [this map](https://bitcoinevents.uk/spending/) to see what bitcoin accepting businesses are near you. Read more about the importance of Bitcoin meetups and Merchant adoption here.
 9. Announce the details for your first meetup on your new Twitter/X and Nostr accounts and also in your Telegram group. 
 10. Fill in [this form](https://forms.gle/Ng5g5AE32kd23Uum8) to give us all the details so that we can list your newly minted meetup on https://bitcoinevents.uk.
+11. We will then list and promote your meetup and give you access to some other useful resources.
