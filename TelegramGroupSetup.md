@@ -14,30 +14,30 @@ To save time you can copy/paste the following text to setup Shieldy in one messa
 
   
 /setConfig <br />
-language: en
-captchaType: digits
-timeGiven: 240
-adminLocked: true
-restrict: false
-noChannelLinks: false
-deleteEntryMessages: false
-greetsUsers: true
-customCaptchaMessage: false
-strict: true
-deleteGreetingTime: 120
-banUsers: false
-deleteEntryOnKick: true
-cas: true
-underAttack: false
-noAttack: false
-buttonText: Not set
-allowInvitingBots: false
-skipOldUsers: false
-skipVerifiedUsers: false
-restrictTime: 24
-banNewTelegramUsers: false
-greetingButtons:
-Not set
+language: en <br />
+captchaType: digits <br />
+timeGiven: 240 <br />
+adminLocked: true <br />
+restrict: false <br />
+noChannelLinks: false <br />
+deleteEntryMessages: false <br />
+greetsUsers: true <br />
+customCaptchaMessage: false <br />
+strict: true <br />
+deleteGreetingTime: 120 <br />
+banUsers: false <br />
+deleteEntryOnKick: true <br />
+cas: true <br />
+underAttack: false <br />
+noAttack: false <br />
+buttonText: Not set <br />
+allowInvitingBots: false <br />
+skipOldUsers: false <br />
+skipVerifiedUsers: false <br />
+restrictTime: 24 <br />
+banNewTelegramUsers: false <br />
+greetingButtons: <br />
+Not set <br />
 
 
 Note - Shieldy needs to be an admin to display welcome messages. 
@@ -96,7 +96,11 @@ Make sure @shieldy_bot is an admin at your chat and it's all done! You can also 
 /skipOldUsers — don't show captcha to Telegram accounts with ID less than 1000000000
 
 /skipVerifiedUsers — don't show captcha to users who have ever passed captcha in any chat
+
 /setConfig — setup Shieldy configuration in one message
+
 /banForFastRepliesToPosts — turn on or off banning users who reply to new channel posts within 5 seconds after posts are created
+
 /restrictTime — setup how much time will Shieldy /restrict a newcomer in hours like /restrictTime 24, reset by setting it to 0
+
 /banNewTelegramUsers — instantly ban (or kick) newcomers with Telegram ID over 1 000 000 000
