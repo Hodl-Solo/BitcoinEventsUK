@@ -1,6 +1,6 @@
 1. # Telegram Group Setup Guide
 
-Make your Telegram group public and then change the URL to something that matches your group name and is human readable. 
+1. Make your Telegram group public and then change the URL to something that matches your group name and is human readable. 
 2. Search for Shieldy and add it to the group. 
 3. Make Shieldy an admin. 
 4. Prevent anyone except admins from interacting with Shieldy with the `/lock` command.
