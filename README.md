@@ -1,4 +1,4 @@
-![BEUK Logo](test)
+![BEUK Logo](https://raw.githubusercontent.com/Hodl-Solo/BitcoinEventsUK/main/BitcoinEventsUK%20SQ%20logo%20black.png)
 # How to start a Bitcoin Meetup
 I've been using these steps to help setup Bitcoin meetups all over the UK and Ireland for the past 2 years. To help simplify the process and remove myself as a bottleneck, I’ve laid out the steps and principles below. 
 
