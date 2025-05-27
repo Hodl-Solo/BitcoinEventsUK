@@ -4,7 +4,7 @@ I've been using these steps to help setup Bitcoin meetups all over the UK and Ir
 
 1. Think of a name for the group. eg Liverpool Bitcoiners. 
 2. Create a logo for the group. This can be super simple or contact us for help with a design. (We have members of the team that can whip something up with photoshop)
-3. Steps 4-6 are optional but you need to have at least one of them to qualify for listing on https://bitcoinevents.uk
+3. Steps 4-6 are optional but you need to have at least some way for newcomers to contact the meetup to qualify for listing on https://bitcoinevents.uk
 4. Create a Twitter account for the group.
 5. Create a Nostr account for the group.
 6. Create a Telegram group. (Follow [these steps](TelegramGroupSetup) to get the Telegram group setup)
