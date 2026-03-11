@@ -1,0 +1,96 @@
+---
+Links: "[[Bitcoin Events UK]]"
+aliases:
+tags:
+  - Nostr
+  - Meetups
+Date Created: Monday 13th November 2023 20:01
+Date Modified: Sunday 12th November 2023 19:03
+---
+Below is a full list of all UK #Bitcoin meetups that have so far joined #Nostr. Give them all a follow. 
+
+Suffolk
+npub1d0q8t3zw4g8fayc6j9ga6ejuzn7dw5kyjkzuyzs289qdfvm2envq4ctlcw
+
+Shropshire 
+npub1u445qrpas8y58szt2unzu7wsvgsfg0llgf7y6sjz7pn76967mn5snh6mul
+
+Penzance Bitcoin 
+npub12en9ql37fn935jm8ak9hkrkyxtp6p9h95g6zqa2824x265gp7peq7ugsqr
+
+Dublin Bitcoin 
+npub1vhkkpayerx8vuyp36l6y4w07753xr6efgw8w3a4jg4kz0t4d2kqqd7cvxj
+
+Northamptonshire Bitcoin Network 
+npub1d6cnmzg9m4kpfxxnzvcgljg4jwk09tu2xet3e72yx6ddgrkgmm7sj4jpwn
+
+Preston Bitcoin Meetup 
+npub16pxqu5dll5zjk5xezg40tmvcfz5t77p9czs50z9dwgpnn9m4fs9sxdftfe 
+
+Bitcoin Bristol 
+npub103a6vk43crw497dlaptwfmhctxqu22mwepshjcvvp29fzwrhtx4q675n6p
+
+Cambridge 
+npub1cfuu8p6wqqkvepuhzcxj484qc8xvx55vjuj6fk6u4fneesknjjesz6uhv9
+
+London Bitcoin Space
+npub17mzfuxmmwyrty75gy493dlhqmq6lezk2rkmcu2svhx3l0zwyrtysal50aq
+
+BitcoinNottingham 
+npub1w4as69ddnfr8x5lul5nqzz9pf45073p4cdgdvlhcmzn8jk7szrdqlgzqm5
+
+Bitcoin Sheffield 
+npub13np9hssuwcl292aksayly9nutdfrsxpm0dwt8w85tdfd7mwpy5fsjp0lgp
+
+Bitcoin Manchester 
+npub1w2d0xngltuu86yn0jfak23sty9xwnu6kwudswpdrhtxydwnhjslq60jesu
+
+Newcastle upon Tyne Bitcoin Meetup. 
+npub17ar5py60qggd7m6hkxn93le6uxhx5nqdfj82ahlup7sd2u635kqs0qas6a
+
+Leeds Bitcoin Network 
+npub1rs38wtz4x4fh63ny079ltvneg46xyyjf5qt3qknparn4a8rlj8jq2gdzf6
+
+Bitcoin Edinburgh 
+npub1lqhpnuk64s35gaqr6hun7uwlxrhw3v7ys4wn32st33w58akskxfssclwed
+
+Brighton & Hove Bitcoin Meetup
+npub1qqqqqqqllnxqptpfvzcetr2rpn0jc7ghxcr9e47cmcdk9unl3fnqspe3v8
+
+Bitcoin Collective
+npub18aks9sc0k8z92dmetl5upkhkr3u7mm04zk94tvszvmnw4fc9kajsfm9hny
+
+Bitcoin Essex
+npub1c39tdmht8g896hyd3t5z47ksuwtmm77fyqxhmr7rac22d85lwsxqzk2lhm
+
+Berkshire Bitcoiners
+npub1l6mrna9fkchzpl82aa23ruus9z8wtgnqdv7pyjkezd85wgk7vg9s752fka
+
+Bitcoinology 
+npub18cngxzyjtjw38mrcwlghmj5sdjzt4am4ezra23jlheafsjtt8duq6ld82l
+
+Cyphermunk House
+npub1hvqhft3p5m9vrg9fez62cm4lmftvu5tqtsc4kxpyju9uya0hywdq3ny4jq
+
+Lake District BTC
+npub1uhznqctvmwgmtue5l5qz7e238kpy0d80k75gk4hp60kfuu5wd75qzw45dp
+
+Sutton Coldfield Bitcoin
+npub1xmrl750a2deqehyu4zr8g6a75vwmgssdlcpx22gznp5vukuw48zs3c7yn6
+
+Bitcoin Hideaway - Offley Ireland
+npub1mxt2eefsc9hy6s7yrxhzk8s0q836vgz8pcs6qdr6q40ngrhpel0s9n5nsy
+
+Bitcoin Derby
+npub1f8vnjrtpc67yn3mj5fw3dpmnmselv8jgzysktpt60gsjs5h7wsvqqs5xev
+
+The Satoshi Society - Southampton 
+npub1t8k7fql0s4ced2nvkndg0gvax0yxnww6tu4yph7cwm92k305umcqgwuc36
+
+Kent Bitcoin
+npub1mmp6r97caxqc6n749kkek820efry78xzrs5pe4vlxazup75zwzfslgc9xh
+
+Bitcoin Walk - Northants 
+npub162sttkc2cl86z2dywp0yznq8vy4prlcgasqg2raqeeftnectlg6q43hnz7y
+
+
